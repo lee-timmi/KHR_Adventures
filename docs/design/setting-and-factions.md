@@ -1,0 +1,110 @@
+# Setting, Tone & Factions
+
+> Status: **Direction locked** (Phase 0). Specific story beats, faction
+> rosters, and side-quest content are deferred to Phase 1+ — this doc captures
+> the *world* the rest of the design builds on.
+
+## The town — Slateburgh
+
+A modern, mixed urban-suburban town (school, shopping streets, residential
+blocks, parks — the open-world hub) that looks completely ordinary on the
+surface. What makes it unusual: it sits in/around a rare geological formation
+that naturally **resonates** — underground cavern systems, fault lines, or
+crystal-bearing strata humming at a frequency strong enough to awaken Strata
+Resonance in people nearby.
+
+This is *why* an unusual concentration of wielders ended up clustered in one
+unremarkable town — the resonant site (a hidden "deep" area, e.g. old quarry
+tunnels or cavern systems beneath the town) is the literal source the entire
+hidden world orbits around. World and power system grow from the same root
+rather than being designed separately.
+
+Working description for the hub layout (to refine in Phase 1): everyday
+districts on the surface (school, downtown, residential, parks) with the
+resonant site as a hidden/late-game-unlocked area underneath or at the edge
+of town.
+
+### Carthage — what's buried beneath
+
+The resonant site isn't just a geological curiosity — it's also where the
+ruins of **Carthage** lie: a lost civilization that may have discovered and
+deliberately wielded Strata Resonance long before anyone alive today.
+Their fall is an open mystery that could be directly tied to *why* the
+resonant site behaves the way it does now.
+
+This gives the town a layer of buried history to slowly uncover, and gives
+**The Conclave** (the lore/knowledge-driven faction) a concrete object of
+obsession — they're not just curious about Resonance in the abstract, they're
+hunting for what Carthage knew and why it ended. Slateburgh, in this framing,
+sits on top of — and was likely shaped by — something far older and far less
+understood than its sleepy surface suggests.
+
+(Note: "Carthage" is a real historical place name — the ancient Phoenician
+city destroyed by Rome — used here deliberately to evoke "fallen ancient
+civilization." Treat it as a working name; the in-world Carthage is its own
+invented civilization; only the evocative *name* is borrowed.)
+
+## Tone
+
+**Even mix, swings both ways** — closest to KHR's own balance. Everyday-life
+levity (school antics, quirky townsfolk, slice-of-life side content) coexists
+with genuine action-drama stakes tied to the factions and the resonance
+phenomenon. Tonal shifts are part of the identity, not an inconsistency to
+smooth over.
+
+## The hidden world
+
+On the surface, life in Slateburgh looks completely normal. **Strata
+Resonance and the factions built around it are hidden from ordinary people**
+— a secret layer beneath everyday life, giving room for "double life" beats,
+dramatic irony, and the slow reveal of how deep the hidden world actually goes.
+
+## Factions — competing interests, no single throne
+
+Unlike KHR's succession-driven conflict (an heir is chosen, rivals circle),
+the central tension here comes from **multiple factions pulling in genuinely
+different directions** — none strictly right or wrong, each coherent from the
+inside. The player isn't choosing between good and evil; they're choosing
+*whose vision of the future* to back (or whether to chart a different path).
+
+| Faction (working name) | Wants | Personality |
+|---|---|---|
+| **The Wardens** | Protect the resonance source and keep it hidden, by any means necessary | Old-guard traditionalists; secretive, principled, occasionally ruthless about "the greater good" |
+| **The Combine** | Harness Resonance as leverage — power, money, influence | Aggressive, modern, expansionist; closest thing to a "villain faction," but with members who genuinely believe they're building something better |
+| **The Conclave** | Understand what Resonance actually is and where it comes from | Scholarly, neutral-seeming; knowledge-at-any-cost can curdle into something darker |
+| **The Unbound** *(optional 4th)* | Reject all factions, operate independently | Wildcard; distrust organized power on principle, can ally with the player situationally |
+
+(Names and exact rosters are working titles — refine during Phase 1 once
+faction-specific story content is being designed. The shapes/personalities are
+locked enough to build around.)
+
+## Protagonist hook
+
+The player character's **Strata Resonance awakens at a pivotal personal
+moment** — and that same moment becomes the formative memory that crystallizes
+into their **first Resonant Echo**. One beat does double duty: origin story
+*and* power-system tutorial. The sudden appearance of an unregistered wielder
+in a town this small is what draws faction attention and pulls the player into
+the hidden world.
+
+## Why this holds up as original
+
+| KHR element | Our equivalent | What's different |
+|---|---|---|
+| Namimori (sleepy town hiding a mafia underworld) | Slateburgh (sleepy town built on a resonant geological site) | Different reason the town is special — geology/phenomenon-driven, not "happens to be where the mafia boss lives" |
+| Vongola succession conflict (single throne, chosen heir) | Competing factions, no throne | Conflict comes from differing worldviews/goals, not inheritance |
+| Mafia-in-plain-sight | Resonance wielders/factions hidden from ordinary people | Same "secret layer" structure, different reason for secrecy (phenomenon-based, not criminal-underworld-based) |
+| Tsuna's reluctant-hero awakening into the mafia world | Protagonist's Resonance awakening (= first Echo forms) | Awakening is tied directly to the original power system's mechanics, not a bloodline/inheritance reveal |
+
+## Decisions still open (track in Phase 1+)
+
+- [ ] Finalize faction names (Wardens/Combine/Conclave/Unbound are working titles)
+- [ ] Map out Slateburgh's districts/regions for the open-world hub
+- [ ] Design the resonant site (the hidden "deep" area) and how/when it's unlocked
+- [ ] Decide what the protagonist's "pivotal moment" actually is (the awakening/first-Echo scene)
+- [ ] Sketch each faction's key NPCs and how they first contact the player
+- [ ] Flesh out Carthage — what the civilization actually was, how it
+      discovered/used Resonance, and what caused its fall (the central mystery
+      The Conclave chases)
+- [ ] Optional: expand beyond the four working factions later, once the core
+      four have enough story content to feel distinct (no need to rush this)
