@@ -82,7 +82,7 @@ Key properties:
   shard"** or **"tuning shard"** — that holds the memory and the feeling
   bound to it. Manifests the Echo once the bond is strong enough.
 
-## Conduit — "Anchors"
+## Conduit — "Keepsakes"
 
 Not signature rings (KHR's "Vongola Rings/Gear"). Instead:
 
@@ -95,20 +95,20 @@ uncontrolled resonance is *noticeable*).
 
 Key properties:
 
-- **The Anchor is the seed node of the Echo's constellation** — this is what
+- **The Keepsake is the seed node of the Echo's constellation** — this is what
   makes the kit feel like one coherent system rather than two separate halves.
-  The Anchor is a single geometric node (the always-on anchor point of the
-  wielder's resonance); the Resonant Echo is the *fuller constellation* that
+  The Keepsake is a single geometric node (the wielder's always-on resonance
+  point); the Resonant Echo is the *fuller constellation* that
   eventually grows outward from that same node once the formative memory
   crystallizes. Conduit and companion share one visual language — geometric
   nodes and waveform-lines throughout — instead of KHR's disconnected
   ring-aesthetic / animal-aesthetic split.
-- **Determines the wielder's attribute type** — the Anchor is what turns raw
+- **Determines the wielder's attribute type** — the Keepsake is what turns raw
   resonance into *directed, typed* power (Bedrock, Drift, Surge, Current,
   Hush), the way KHR's Rings let a Guardian actually use their Flame in combat.
 - **How it's obtained — no inheritance needed, but not guaranteed to be easy**:
   when Resonance first awakens in someone, a nearby mineral fragment ideally
-  "answers" their frequency and becomes their Anchor — organic, no bloodline
+  "answers" their frequency and becomes their Keepsake — organic, no bloodline
   or hand-me-down required (fits "competing factions, no single throne": no
   power passed down a lineage). **But that natural resonance doesn't always
   happen.** When a wielder can't bond with a fragment on their own, their
@@ -151,7 +151,7 @@ than being anchored to just one.
 | Dying Will Flames (fire, passion) | Strata Resonance (vibration, harmony) | Different sense, different visual register, different emotional metaphor |
 | Attribute wheel (weather-themed, no stated logic to the matchups) | Resonance States × emotional registers (Bedrock/Drift/Surge/Current/Hush) | Matchups read as emotionally *true* ("patience outlasts stubbornness"), not memorized trivia — and the wheel is literally built from the same "feelings generate power" idea the whole system rests on |
 | Box Weapons (sealed boxes → animal companions, summoned from a measured "Flame" power) | Resonance shards → Resonant Echoes, crystallized from the *feeling* of a memory | Source (a feeling, not a frequency measurement or creature template), shape (geometric constellation, not animal), summoning vessel (shard, not box) |
-| Vongola Rings/Gear (inherited, fixed form, separate aesthetic from Boxes) | Anchors (awakened organically *or* channeled externally when that fails, flexible form, share one visual language with Echoes) | Source (frequency-matched or externally-channeled, not inherited), relationship to companion (literal seed-node of the same constellation, not a separate system) |
+| Vongola Rings/Gear (inherited, fixed form, separate aesthetic from Boxes) | Keepsakes (awakened organically *or* channeled externally when that fails, flexible form, share one visual language with Echoes) | Source (frequency-matched or externally-channeled, not inherited), relationship to companion (literal seed-node of the same constellation, not a separate system) |
 | (no real equivalent — Flames don't have an "emotional mastery" tier) | Harmonic — a sixth, off-wheel attribute representing integration of all emotional registers | An original concept with no direct KHR analogue; framed as earned mastery rather than raw power tier |
 
 ## Decisions still open (track in Phase 0 / Phase 1)

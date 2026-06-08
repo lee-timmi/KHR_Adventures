@@ -3,7 +3,7 @@
 > Status: **Core four locked** (Phase 0). Full ensemble target is 6-8 —
 > remaining slots will be filled by wielders the group meets through the
 > story (per the "drawn together by the awakening event" structure). Combat
-> kits (attribute type, Anchor form, Resonant Echo) are deferred to Phase 1
+> kits (attribute type, Keepsake form, Resonant Echo) are deferred to Phase 1
 > once the power-system numbers are on paper — this doc captures *identity*.
 
 ## Suzu — The Protagonist
@@ -21,6 +21,16 @@
   the same moment that crystallizes her first Resonant Echo from whatever
   formative memory triggers it. Everything else in the early game radiates
   out from that beat.
+- **Player-customizable**: Suzu *is* the player's avatar — her role, name
+  (working default), and story beats stay as designed, but her attribute type
+  isn't authored here, and isn't picked from a menu either — it's *revealed*
+  through how the player actually responds in her awakening scene (see
+  [[setting-and-factions]] for the locked shape of that moment). The reaction
+  and the reveal are the same beat, matching the lore's own rule that "a
+  character's type isn't an arbitrary assignment, it's a reflection of their
+  inner emotional shape." This is what "built for player projection without
+  being a blank slate" means in practice: the identity is templated, the
+  specifics are yours.
 
 ## Raphael — "The Livewire" (Friend A)
 
@@ -32,6 +42,9 @@
   easily, almost joyfully: a living answer to "what if this power were a gift,
   not a burden?" — one half of the emotional mirror that plays off Suzu's
   unspoken feelings about her own power.
+- **Attribute — Surge**: "Volatile, charged, sudden — passion, anger, thrill,
+  urgency" (see [[power-system]]) maps directly onto "The Livewire" — energetic,
+  a little chaotic, leans into intensity rather than away from it.
 
 ## Wren — "The Anchor" (Friend B)
 
@@ -43,6 +56,11 @@
   something they try to suppress — raising the harder question Suzu's silence
   can't answer for her: *what if you don't want this?* The other half of the
   emotional mirror.
+- **Attribute — Bedrock**: "Dense, solid, immovable — resolve, conviction,
+  stubbornness, protectiveness" (see [[power-system]]) reflects the friend who
+  keeps the group tethered and resists change rather than drifting with it —
+  and pairs neatly with the "Anchor" nickname (grounding, immovable) without
+  the conduit-item collision now that the conduit is named "Keepsake."
 
 ## Salvatore — The Mentor
 
@@ -80,7 +98,7 @@ attention it draws) pulls Salvatore toward her out of personal obligation,
 while Raphael and Wren — already her friends before any of this started —
 get pulled along simply by being close to her when it happens. The found
 family forms organically out of proximity and circumstance, the same way the
-Anchor forms organically out of a wielder's awakening (see
+Keepsake forms organically out of a wielder's awakening (see
 [[power-system]]) — one more thread tying the cast design back to the world's
 core mechanics.
 
@@ -88,12 +106,11 @@ core mechanics.
 
 - [ ] Fill remaining roster slots (target ensemble: 6-8) — additional wielders
       met through the unfolding story
-- [ ] Assign attribute types (Bedrock/Drift/Surge/Current/Hush — see
-      [[power-system]]) to Suzu, Raphael, and Wren based on their emotional
-      registers as written above (e.g. does Suzu's "quiet exterior, hidden
-      resolve" map to Hush, Bedrock, or something less obvious?)
+- [x] ~~Assign attribute types to Raphael and Wren~~ — locked: Raphael = Surge,
+      Wren = Bedrock (see their entries above). Suzu's type is intentionally
+      *not* authored — it's a player-creation choice (see her entry above).
 - [ ] Define each character's formative memory (the seed of their Resonant Echo)
-- [ ] Design each character's Anchor form (pin, pendant, clasp, wrist-piece, etc.)
+- [ ] Design each character's Keepsake form (pin, pendant, clasp, wrist-piece, etc.)
 - [ ] Surnames / family details — especially for Suzu (ties into Salvatore's
       backstory) and Salvatore himself
 - [ ] Decide whether the cast's names reflect a multicultural Slateburgh, or

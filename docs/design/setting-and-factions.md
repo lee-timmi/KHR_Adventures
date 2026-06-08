@@ -101,7 +101,15 @@ the hidden world.
 - [ ] Finalize faction names (Wardens/Combine/Conclave/Unbound are working titles)
 - [ ] Map out Slateburgh's districts/regions for the open-world hub
 - [ ] Design the resonant site (the hidden "deep" area) and how/when it's unlocked
-- [ ] Decide what the protagonist's "pivotal moment" actually is (the awakening/first-Echo scene)
+- [x] ~~Decide the shape of the protagonist's "pivotal moment"~~ — locked:
+      the resonant site stirs first, and Suzu's private reaction to that
+      uncanny experience is what crystallizes alongside it, tying her
+      awakening directly to the Carthage mystery from her very first moment
+      in the hidden world. Her attribute type is *revealed* through how the
+      player responds in that scene — no fixed type, no menu (see
+      [[character-roster]]). **Still open**: the scene's exact specifics —
+      where it happens, how Raphael/Wren end up nearby to witness it, how it
+      draws Salvatore in.
 - [ ] Sketch each faction's key NPCs and how they first contact the player
 - [ ] Flesh out Carthage — what the civilization actually was, how it
       discovered/used Resonance, and what caused its fall (the central mystery
