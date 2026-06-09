@@ -72,11 +72,45 @@ inside. The player isn't choosing between good and evil; they're choosing
 | **The Wardens** | Protect the resonance source and keep it hidden, by any means necessary | Old-guard traditionalists; secretive, principled, occasionally ruthless about "the greater good" |
 | **The Combine** | Harness Resonance as leverage — power, money, influence | Aggressive, modern, expansionist; closest thing to a "villain faction," but with members who genuinely believe they're building something better |
 | **The Conclave** | Understand what Resonance actually is and where it comes from | Scholarly, neutral-seeming; knowledge-at-any-cost can curdle into something darker |
-| **The Unbound** *(optional 4th)* | Reject all factions, operate independently | Wildcard; distrust organized power on principle, can ally with the player situationally |
+| **The Unbound** | End institutional control over Resonance entirely | Decentralized, trust-based cells; fiercely independent; the "trust yourself" path for the player |
 
 (Names and exact rosters are working titles — refine during Phase 1 once
 faction-specific story content is being designed. The shapes/personalities are
 locked enough to build around.)
+
+### The Unbound — full profile
+
+**Vision**: End the system of registration, allegiance, and institutional
+control over Resonance. Not destruction for its own sake — they believe
+Resonance belongs to the wielder, full stop. No one should be registered,
+recruited, leveraged, or "protected" by an organization they didn't choose.
+
+**Structure**: Decentralized by design — small trust-based cells, no formal
+hierarchy. Strength: hard to infiltrate or dismantle. Weakness: hard to
+coordinate, no unified response to threats. Their structure *is* their
+ideology made literal.
+
+**Internal makeup**: Diverse and often fractured — genuine idealists who
+believe in freedom for all wielders, alongside disillusioned former members
+of the other three factions who got burned. They agree on what they oppose
+more than what they're building toward. That tension is part of their identity,
+not a flaw to smooth over.
+
+**Angle on Carthage**: Where the Conclave wants to excavate what Carthage
+knew, the Unbound read Carthage as a cautionary tale — a civilization that had
+Resonance, built institutions around it, and fell anyway. They're not hunting
+for the knowledge; they want to make sure the pattern doesn't repeat.
+
+**How they first contact the player**: The Unbound quietly track unregistered
+awakenings — because unregistered wielders are exactly who the other factions
+move on first. They approach Suzu not with a recruitment pitch, but with a
+warning: *the others already know you exist.*
+
+**As a faction choice**: Choosing the Unbound means freedom over structure —
+no institutional resources or protection, no obligations either. The "trust
+yourself" path. Mechanically, should lean toward personal-growth and
+independent play rather than faction-mission content — the player develops
+Suzu on their own terms instead of under an organization's banner.
 
 ## Protagonist hook
 
@@ -101,6 +135,12 @@ the hidden world.
 - [ ] Finalize faction names (Wardens/Combine/Conclave/Unbound are working titles)
 - [ ] Map out Slateburgh's districts/regions for the open-world hub
 - [ ] Design the resonant site (the hidden "deep" area) and how/when it's unlocked
+- [ ] Flesh out each faction's first-contact moment with the player (Unbound's
+      shape is locked — warning, not pitch; the other three need parallel treatment)
+- [ ] Decide Suzu's formative memory approach — authored flashback all players
+      share, impressionistic/projected, or player-seeded earlier in the session
+- [ ] Frame the five awakening reaction choices as impulses, not actions, so no
+      single option reads as the "correct" response (Bedrock skew risk)
 - [x] ~~Decide the shape of the protagonist's "pivotal moment"~~ — locked:
       the resonant site stirs first, and Suzu's private reaction to that
       uncanny experience is what crystallizes alongside it, tying her
@@ -117,11 +157,16 @@ the hidden world.
       no contrivance needed, just proximity. Raphael reacts with instinctive
       excitement; Wren flinches back. **Suzu's first Echo**: crystallizes
       from a formative memory entirely her own — no tie to Salvatore's past
-      with her family. **Salvatore**: arrives in the doorway as it peaks,
-      drawn by the raw unregistered resonance signal. His first-scene reveal
-      is minimal: his name, and that he made a promise to look after her.
-      Nothing else — no faction talk, no world-explanation. Scene ends on
-      that.
+      with her family. **No Keepsake forms**: the music room has no mineral
+      fragment to answer her frequency — she awakens raw and unstabilized,
+      power uncontrolled. This makes Salvatore's arrival mechanically
+      meaningful, not just emotional: he's the one who can externally channel
+      her resonance until she finds a fragment to bond with (see
+      [[power-system]] — unanchored wielders need external guidance).
+      **Salvatore**: arrives in the doorway as it peaks, drawn by the raw
+      unregistered resonance signal. His first-scene reveal is minimal: his
+      name, and that he made a promise to look after her. Nothing else — no
+      faction talk, no world-explanation. Scene ends on that.
 - [ ] Sketch each faction's key NPCs and how they first contact the player
 - [ ] Flesh out Carthage — what the civilization actually was, how it
       discovered/used Resonance, and what caused its fall (the central mystery

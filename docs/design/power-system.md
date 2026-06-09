@@ -165,6 +165,10 @@ than being anchored to just one.
 - [ ] Visual style guide for the "ripple/crystal/waveform" aesthetic (color
       language per attribute type, conduit forms, node/constellation shapes)
 - [ ] Decide what an "unanchored"/externally-channeled wielder looks/plays
-      like mechanically (ties into the protagonist's awakening-arc pacing)
+      like mechanically — **now urgent**: Suzu's starting state is locked as
+      unanchored (no Keepsake forms in the music room). Minimum to answer:
+      can she use power at all without a Keepsake, or does it just leak
+      involuntarily? How does Salvatore's external channeling work visually
+      and mechanically?
 - [ ] Work out Harmonic's actual numbers/costs once combat balancing starts
       (see balance flag above)

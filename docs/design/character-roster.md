@@ -112,6 +112,8 @@ core mechanics.
 - [ ] Define each character's formative memory (the seed of their Resonant Echo)
 - [ ] Design each character's Keepsake form (pin, pendant, clasp, wrist-piece, etc.)
 - [ ] Surnames / family details — especially for Suzu (ties into Salvatore's
-      backstory) and Salvatore himself
+      backstory) and Salvatore himself. Also: decide *who* Salvatore made his
+      promise to (parent vs. sibling/guardian, alive vs. gone) — shapes every
+      early-game line he delivers and his longer arc
 - [ ] Decide whether the cast's names reflect a multicultural Slateburgh, or
       whether that's left unaddressed/backgrounded
