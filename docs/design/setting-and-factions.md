@@ -107,9 +107,21 @@ the hidden world.
       awakening directly to the Carthage mystery from her very first moment
       in the hidden world. Her attribute type is *revealed* through how the
       player responds in that scene — no fixed type, no menu (see
-      [[character-roster]]). **Still open**: the scene's exact specifics —
-      where it happens, how Raphael/Wren end up nearby to witness it, how it
-      draws Salvatore in.
+      [[character-roster]]).
+- [x] ~~Flesh out the awakening scene's specifics~~ — locked 2026-06-09:
+      **Location**: the school music room, after hours — Suzu, Raphael, and
+      Wren are lingering there when the resonant strata beneath the school
+      begins to hum. Instruments vibrate sympathetically (strings trembling
+      untouched, the piano sustaining a note no one struck) before Suzu's
+      awakening breaks. **Raphael/Wren**: already present as her friends —
+      no contrivance needed, just proximity. Raphael reacts with instinctive
+      excitement; Wren flinches back. **Suzu's first Echo**: crystallizes
+      from a formative memory entirely her own — no tie to Salvatore's past
+      with her family. **Salvatore**: arrives in the doorway as it peaks,
+      drawn by the raw unregistered resonance signal. His first-scene reveal
+      is minimal: his name, and that he made a promise to look after her.
+      Nothing else — no faction talk, no world-explanation. Scene ends on
+      that.
 - [ ] Sketch each faction's key NPCs and how they first contact the player
 - [ ] Flesh out Carthage — what the civilization actually was, how it
       discovered/used Resonance, and what caused its fall (the central mystery

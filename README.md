@@ -1,14 +1,14 @@
-# KHR_Adventures *(working title)*
+# Anamnesis
 
 A multiplayer Roblox RPG about **Strata Resonance** — power born from
 *feeling*, not measured force — set in **Slateburgh**, an unassuming town
 sitting on a resonant geological site that's quietly drawn an unusual
 concentration of wielders into the hidden world built around it.
 
-> **Naming note**: "KHR_Adventures" is the placeholder name carried over from
-> the project's original KHR-inspired concept. The design has since grown
-> into its own thing — see `docs/design/` — and a proper title (plus logo)
-> is still pending.
+> **Naming note**: The repo folder is still named `KHR_Adventures` — the
+> placeholder carried over from the project's KHR-inspired origins. Renaming
+> the folder/repo is a harder-to-reverse step; it stays until we're ready
+> to do it properly.
 
 ## Design docs
 
